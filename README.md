@@ -1,1 +1,1 @@
-"# bnrexchangerates" 
+#bnr-exchange-rates
