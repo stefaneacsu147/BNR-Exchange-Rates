@@ -1,1 +1,2 @@
-#bnr-exchange-rates
+# BNR Exchange Rates
+Converts BNR exchange rates
