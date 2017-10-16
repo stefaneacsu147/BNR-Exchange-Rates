@@ -1,2 +1,2 @@
 # BNR Exchange Rates
-- exchange
+Exchange rates
